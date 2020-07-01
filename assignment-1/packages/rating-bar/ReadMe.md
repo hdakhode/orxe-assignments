@@ -38,5 +38,6 @@ Range | Color |
 
 
 ## Usage
-
-<orxe-rating-bar lwidth="100" lheight="8px" rating=""></orxe-rating-bar>
+```bash
+<orxe-linear-rating-bar rating=9 label="Ratings"></orxe-linear-rating-bar>
+```
